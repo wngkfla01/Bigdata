@@ -1,6 +1,6 @@
 """
 날짜 : 2020/08/12
-이름 : 김철학
+이름 : 주하림
 내용 : 머신러닝 - Random Forest 실습
 """
 import pandas as pd
