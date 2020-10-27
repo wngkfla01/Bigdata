@@ -1,6 +1,6 @@
 """
 날짜 : 2020/08/11
-이름 : 김철학
+이름 : 주하림
 내용 : 머신러닝 - 다중선형회귀 분석 연습문제
 """
 from sklearn.linear_model import LinearRegression
