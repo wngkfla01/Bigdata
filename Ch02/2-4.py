@@ -1,6 +1,6 @@
 """
 날짜 : 2020/07/22
-이름 : 김철학
+이름 : 주하림
 내용 : 파이썬 Hadoop 실습하기
 """
 from pywebhdfs.webhdfs import PyWebHdfsClient as hadoop
