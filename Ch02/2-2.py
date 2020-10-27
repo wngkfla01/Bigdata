@@ -1,6 +1,6 @@
 """
 날짜 : 2020/07/16
-이름 : 김철학
+이름 : 주하림
 내용 : 파이썬 MongoDB find 실습하기
 """
 from pymongo import MongoClient as mongo
