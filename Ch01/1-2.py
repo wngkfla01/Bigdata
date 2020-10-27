@@ -1,6 +1,6 @@
 '''
 날짜 : 2020/07/13
-이름 : 김철학
+이름 : 주하림
 내용 : 파이썬 HTML 파싱하기
 '''
 from bs4 import BeautifulSoup as bs
